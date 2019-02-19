@@ -6,4 +6,4 @@ Nomal hoi
 
 var name = "sara"
 
-console.log (name)
+console.log ("Hoi " +name)
